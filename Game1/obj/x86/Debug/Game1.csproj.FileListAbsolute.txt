@@ -1,0 +1,168 @@
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\obj\x86\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\Ship.xnb
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\Bullet.xnb
+C:\Users\Tim.persson3\Documents\Visual Studio 2017\Projects\Game1\Game1\bin\Windows\x86\Debug\Content\Enemy.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\Bullet.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\Enemy.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\Ship.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Bullet.xnb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Ship.xnb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\obj\x86\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\obj\x86\Debug\Game1.exe
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Missile.xnb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\PewPewSound.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\Missile.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\PewPewSound.xnb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\MissileExplosion.xnb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\MissleLaunch.xnb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\BoostBar.xnb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\BoostBarFrame.xnb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\HealthBar.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\BoostBar.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\BoostBarFrame.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\HealthBar.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\MissileExplosion.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\MissleLaunch.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\Ray.xnb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Ray.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\EnemyBarFrame.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\EnemyHealthBar.xnb
+C:\Users\timmitee\Source\Repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Enemy.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\EnemyBarFrame.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\EnemyHealthBar.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\basicFont.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\GameMenuBackground.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\basicFont.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\GameMenuBackground.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\Healthkit.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Healthkit.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\Explosion.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\obj\x86\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\Dynamite_SU.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Dynamite_SU.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion.xnb
+C:\Users\Tim.persson3\Documents\GitHub\MonogameSpaceShooter\Game1\bin\Windows\x86\Debug\Content\Asteroid.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Asteroid.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0001.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0002.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0003.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0004.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0005.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0006.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0007.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0008.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0009.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0010.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0011.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0012.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0013.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0014.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0015.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0016.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0017.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0018.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0019.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0020.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0021.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0022.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0023.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0024.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0025.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0026.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0027.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0028.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0029.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0030.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0031.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0032.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0033.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0034.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0035.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0036.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0037.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0038.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0039.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0040.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0041.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0042.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0043.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0044.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0045.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0046.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0047.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\Explosion\0048.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\AmmoCrate.xnb
+C:\Users\timmitee\source\repos\Monogame_Space_Shooter\Game1\bin\Windows\x86\Debug\Content\deathScene.xnb
